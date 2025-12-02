@@ -9,7 +9,7 @@
 
 <img src="https://static.wikia.nocookie.net/logopedia/images/2/2a/Apple_Compressor_2011.png/revision/latest?cb=20230131031746" width="200"><br>
 
-<a href="https://software-apps-osx.github.io/.github/">
+<a href="https://mac-apps-install.github.io/.github/Apple-Compressor">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br>
 
